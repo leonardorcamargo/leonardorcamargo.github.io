@@ -1,18 +1,16 @@
 ---
 layout: default
 ---
-<div class="card-panel teal lighten-2 white-text" style="text-align: center;">
-  <h3>Paka ¬¬</h3>
+<div style="text-align: center;">
+  <h3><b>Paka ¬¬</b></h3>
 </div>
 <div class="container">
-  <div class="collection">
     {% for post in site.posts %}
-      <a class="collection-item" href="{{ post.url | prepend: site.url }}">
+      <a href="{{ post.url | prepend: site.url }}">
         <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }}</span>
-        <h2> {{ post.title | escape }} </h2>
+        <h3> {{ post.title | escape }} </h3>
       </a>
     {% endfor %}
-  </div>
 </div>
 <!--  Scripts-->
 <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
