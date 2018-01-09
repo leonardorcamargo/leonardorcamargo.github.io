@@ -22,6 +22,7 @@ description: >
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 path_img: "/assets/img/"
+page: "/_page/"
 
 twitter_username: leo_rcamargo
 github_username:  leonardorcamargo
@@ -32,7 +33,7 @@ linkedin_username: leonardorcamargo
 # Build settings
 markdown: kramdown
 #theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
