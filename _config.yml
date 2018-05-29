@@ -42,3 +42,7 @@ exclude:
 sass:
   sass_dir: assets/_sass
   style: compressed
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
