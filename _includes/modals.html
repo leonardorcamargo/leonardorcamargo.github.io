@@ -16,7 +16,11 @@
                             <hr class="star-primary">
                             <img src="img/metas/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
-                                <p>{{ post.description }}</p>
+                                <p><small>{{ post.description }}</small></p>
+                            {% endif %}
+                            {% if post.content %}
+                                <hr>
+                                {{ post.content }}
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
