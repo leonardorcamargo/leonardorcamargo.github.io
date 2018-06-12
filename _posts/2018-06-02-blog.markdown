@@ -11,6 +11,6 @@ description: Desenvolvimento de um blog para postagens sobre estudos, ideias, vi
 
 ---
 
-Uma meta que gostaria de alcançar logo é a criação de um blog, parece bobagem colocar isso como meta, mas acredito que o desenvolvimento e gerenciamento de um blog irá exigir de mim um pouco mais de disciplina, e me forçará a desenvolver habilidades que julgo importantes.
+Algo que eu gostaria de começar logo é um blog, parece bobagem colocar isso como meta, mas acredito que o desenvolvimento e gerenciamento de um blog irá exigir de mim um pouco mais de disciplina, e me forçará a desenvolver habilidades que julgo serem importantes.
 
 Se você nunca almejou fazer algo assim, pare e pense por um momento: desenvolvimento do layout, escolha do tema, assuntos abordados e muito mais. Essas tarefas exigem dedicação, além de entendimento sobre os assuntos que irei escrever. Provavelmente irá surgir novos desafios no caminho conforme eu vá adquirindo experiências nesse novo desafio.
