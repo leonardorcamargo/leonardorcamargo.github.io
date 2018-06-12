@@ -2,8 +2,8 @@
 title: Leo Camargo
 email: leonardorcamargo@gmail.com
 url: https://leonardorcamargo.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "developer, web, software, javascript, html5"
+description: "Aqui você irá encontrar mais informações sobre mim, minhas metas e objetivos atuais"
+keywords: "desenvolvedor, programador, developer, web, software, javascript, html5"
 skills: "Systems Analyst - Software Developer - Eternal Student"
 meta_author: Camargo Leonardo
 
@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  location: Localização
+  social: Encontre-me na Web
+  credits: Créditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -43,8 +43,6 @@ social:
     url: https://twitter.com/leo_rcamargo
   - title: facebook
     url: https://www.facebook.com/leo.rcamargo
-  - title: stack-overflow
-    url: 
   - title: bitbucket
     url: https://bitbucket.org/leonardorcamargo/
   - title: github
@@ -52,7 +50,6 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Rua Jair Domingues, 559 - Centro
   - line: CEP 18.890-000 - Taguaí-SP, Brazil
 
 # Credits content
